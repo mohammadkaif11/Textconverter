@@ -1,10 +1,10 @@
 # Text Converter
 # features
-convert lowercase to uppercase
-convert uppercase to lowercase
-copied text
-return No of words
-dark mode
+    convert lowercase to uppercase
+    convert uppercase to lowercase
+    copied text
+    return No of words
+    dark mode
 ## Available Scripts
 
 In the project directory, you can run:
