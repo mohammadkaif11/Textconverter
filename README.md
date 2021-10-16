@@ -1,6 +1,10 @@
-# weather Web Application without UI
-#features
-searchs weather of city
+# Text Converter
+# features
+convert lowercase to uppercase
+convert uppercase to lowercase
+copied text
+return No of words
+dark mode
 ## Available Scripts
 
 In the project directory, you can run:
